@@ -1,2 +1,2 @@
 # Job-Portal-
-Auther - Saquib Ansari
+Author - Saquib Ansari
